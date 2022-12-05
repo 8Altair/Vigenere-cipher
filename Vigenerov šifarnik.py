@@ -327,3 +327,4 @@ else:
 
 print("Zahvaljujemo se na koristenju naseg programa.")
 izlaz = input('Pritinite "enter" za izlaz.')
+
